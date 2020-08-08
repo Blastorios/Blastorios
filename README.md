@@ -5,11 +5,8 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 
 ### Some of my favorite tools
 ![VSCode](/images/vscode_render.png) | ![Atom](/images/atom_render.png)
------------------------------------- | ---------------------------------------
 ![Jupyter](/images/jupyter.png) | ![GitHub](/images/github_render.png)
-------------------------------- | ------------------------------------
 ![Windows](/images/windows_render.png) | ![Ubuntu](/images/ubuntu_render.png)
--------------------------------------- | ------------------------------------
 
 ## Languages
 ![Python](/images/python_render.png) 
