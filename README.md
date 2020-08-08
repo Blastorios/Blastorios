@@ -18,4 +18,4 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 
 ## Upcoming Projects
 - [x] Functional Ubuntu environment with ~~a reverse-proxy~~ traefik, ~~a containerization module~~ docker and ~~an orchestration module~~ docker-swarm to host a range of web apps
-- [] A portfolio page featuring three.js for 3D-models
+- [ ] A portfolio page featuring three.js for 3D-models
