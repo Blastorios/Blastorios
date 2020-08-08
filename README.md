@@ -1,9 +1,9 @@
-## Welcome to the profile of Blastorios (/blastorius/)
-![Blastorios Logo](/images/Blastorios Logo Final-01.png)
+## Welcome to the profile of Blastorios (/blastoriuhs/)
+![Blastorios Logo](/images/blastorios_render.png)
 
 I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate the best of both. My current project involves the creation of a multipurpose [website](https://blastorios.dev/) that will be free to use!
 
-### Some of my favorite tools
+## Some of my favorite tools
 ![VSCode](/images/vscode_render.png) | ![Atom](/images/atom_render.png)
 ------------------------------------ | --------------------------------
 
