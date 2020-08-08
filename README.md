@@ -1,9 +1,6 @@
 ![Blastorios Logo](/images/blastorios_render.png)
 
-<div>
-  <center>I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate the best of both. My current project involves the creation of a multipurpose [website](https://blastorios.dev/) that will be free to use!
-  </center>
-</div>
+I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate the best of both. My current project involves the creation of a multipurpose [website](https://blastorios.dev/) that will be free to use!
 
 ## Some of my favorite tools
 ![VSCode](/images/vscode_render.png) | ![Atom](/images/atom_render.png) | ![Jupyter](/images/jupyter_render.png)
