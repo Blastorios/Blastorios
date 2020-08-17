@@ -6,16 +6,16 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/vscode_render.png" alt="vscode render"> | <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/atom_render.png" alt="atom render"> | <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/jupyter_render.png" alt="jupyter render">
 ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/github_render.png" alt="github render"> | <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/windows_render.png" alt="windows render"> | <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/ubuntu_render.png" alt="ubuntu render">
------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------------------------------------
+<a href="https://www.github.com/" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/github_render.png" alt="github render"> /a> | <a href="https://www.microsoft.com/en-us/windows" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/windows_render.png" alt="windows render"> /a> | <a href="https://www.ubuntu.com/" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/ubuntu_render.png" alt="ubuntu render"> /a>
+------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Languages
-<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render">
+<a href="https://www.python.org/" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render"> /a>
 
-<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/go_render.png" alt="go render">
+<a href="https://golang.org/" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/go_render.png" alt="go render"> /a>
 
-<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/javascript_render.png" alt="javascript render">
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript" <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/javascript_render.png" alt="javascript render"> /a>
 
 ## Upcoming Projects
 - [x] Functional Ubuntu environment with ~~a reverse-proxy~~ traefik, ~~a containerization module~~ docker and ~~an orchestration module~~ docker-swarm to host a range of web apps
-- [ ] A portfolio page featuring three.js for 3D-models
+- [ ] A portfolio page featuring three.js
