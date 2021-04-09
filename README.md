@@ -17,5 +17,5 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/javascript_render.png" alt="javascript render"> </a>
 
 ## Upcoming Projects
-- [x] Functional Ubuntu environment with ~~a reverse-proxy~~ traefik, ~~a containerization module~~ docker and ~~an orchestration module~~ docker-swarm to host a range of web apps
-- [ ] A portfolio page featuring three.js
+- [x] Functional Ubuntu environment with ~~a reverse-proxy~~ traefik, ~~a containerization module~~ docker and ~~an orchestration module~~ kubernetes to host a range of web apps
+- [ ] A Machine Learning Approach to Peak Selection for the NeuroImaging Tool Mesmerize
