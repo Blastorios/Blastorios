@@ -10,11 +10,11 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Languages
-<a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render"> </a>
+<a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render" width="500" height="600"> </a>
 
-<a href="https://julialang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render"> </a>
+<a href="https://julialang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render" width="500" height="600"> </a>
 
-<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="typescript render"> </a>
+<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="typescript render" width="500" height="600"> </a>
 
 ## Main Research Interest
 Translational Medicine and the application of Deep Neural Networks in Protein Simulations
