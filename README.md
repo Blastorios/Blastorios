@@ -12,10 +12,9 @@ I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate th
 ## Languages
 <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render"> </a>
 
-<a href="https://golang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/go_render.png" alt="go render"> </a>
+<a href="https://julialang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render"> </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/javascript_render.png" alt="javascript render"> </a>
+<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="typescript render"> </a>
 
-## Upcoming Projects
-- [x] Functional Ubuntu environment with ~~a reverse-proxy~~ traefik, ~~a containerization module~~ docker and ~~an orchestration module~~ kubernetes to host a range of web apps
-- [ ] A Machine Learning Approach to Peak Selection for the NeuroImaging Tool Mesmerize
+## Main Research Interest
+Translational Medicine and the application of Deep Neural Networks in Protein Simulations
