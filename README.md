@@ -1,6 +1,7 @@
-<img align="right" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/B-logo.svg" width="200" height="200"/>
+<img align="left" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/B-logo.svg" width="200" height="200"/>
 <h2><strong>Research Targets</strong></h2>
 Financial Market Analysis, Translational Medicine and Self-Supervised Learning.
+
 
 ## Some of my favorite tools
 <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/vscode_render.png" alt="vscode render" width="100" height="100"> </a> | <a href="https://www.gitbook.com/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/gitbook_render.png" alt="gitbook render" width="100" height="100"> </a> | <a href="https://www.jupyter.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/jupyter_render.png" alt="jupyter render" width="100" height="100"> </a>
