@@ -20,6 +20,3 @@ Financial Market Analysis, Translational Medicine and Self-Supervised Learning.
 <a href="https://julialang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render" width="100" height="100"> </a>
 
 <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="typescript render" width="100" height="100"> </a>
-
-## Main Research Interest
-Translational Medicine and the application of Deep Neural Networks in Protein Simulations
