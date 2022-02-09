@@ -1,6 +1,13 @@
-<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/blastorios_render.png" alt="Blastorios Logo">
-
-I'm an aspiring **Fullstack dev** and **Data scientist** looking to integrate the best of both!
+<div>
+<div style="float: left">
+<img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/B-logo.svg" width="200" height="200"/>
+</div>
+<div>
+  <h2><strong>Research Targets</strong></h2>
+<br>
+Financial Market Analysis, Translational Medicine and Self-Supervised Learning.
+</div>
+</div>
 
 ## Some of my favorite tools
 <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/vscode_render.png" alt="vscode render" width="100" height="100"> </a> | <a href="https://www.gitbook.com/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/gitbook_render.png" alt="gitbook render" width="100" height="100"> </a> | <a href="https://www.jupyter.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/jupyter_render.png" alt="jupyter render" width="100" height="100"> </a>
