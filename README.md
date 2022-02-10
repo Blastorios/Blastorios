@@ -15,8 +15,14 @@ Financial Market Analysis, Translational Medicine and Self-Supervised Learning.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Languages
-<a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render" width="100" height="100"> </a>
+<a href="https://www.python.org/"> <img align="left" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/python_render.png" alt="python render" width="100" height="100"> </a>
 
-<a href="https://julialang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render" width="100" height="100"> </a>
+<a href="https://julialang.org/"> <img align="right" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/julia_render.png" alt="julia render" width="100" height="100"> </a>
 
-<a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="typescript render" width="100" height="100"> </a>
+<a href="https://www.rust-lang.org/"> <img align="left" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/rust_render.png" alt="rust render" width="100" height="100"> </a>
+
+<a href="https://go.dev/"> <img align="right" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/go_render.png" alt="go render" width="100" height="100"> </a>
+
+<a href="https://www.typescriptlang.org/"> <img align="left" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/typescript_render.png" alt="ts render" width="100" height="100"> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction"> <img align="right" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/javascript_render.png" alt="js render" width="100" height="100"> </a>
