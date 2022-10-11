@@ -1,6 +1,6 @@
 <img align="left" src="https://raw.githubusercontent.com/Blastorios/Blastorios/master/images/B-logo.svg" width="200" height="200"/>
 <h2><strong>Research Targets</strong></h2>
-Financial Market Analysis, Translational Medicine and Graph Neural Networks.
+Translational Medicine and Graph Neural Networks.
 <br>
 <br>
 <br>
